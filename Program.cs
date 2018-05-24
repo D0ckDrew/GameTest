@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Я умею писать в консоль");
+            Console.WriteLine("Я умею писать в консоль + в консоль");
         }
     }
 }
